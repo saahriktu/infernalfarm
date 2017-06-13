@@ -1,0 +1,19 @@
+Infernal farm - game where you must catch radioactive eggs on
+farm near atomic electrostation. 3 missed eggs will cause atomic explode
+
+Controls:
+standart UNIX arrow keys: h,j,k,l
+assigned as:
+j	k
+h	l
+
+Requirements:
+this game require ncurses library
+
+Compile:
+just type "make" and press Enter
+
+Install:
+just type "make install" and press Enter
+
+Enjoy!
